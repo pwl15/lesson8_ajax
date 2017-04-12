@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Paul Lee
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assigment I learned how to manipulate the OMDb API to make an HTTP response.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwl15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to insert additional DOM modes dependent upon which parameters I specified.
+2. I learned how to update the $.ajax() method for my parameters.
+3. I learned how to troubleshoot the program by opening the Network tab in the Javascript console.
